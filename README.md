@@ -1,2 +1,2 @@
-# Platinum.gg
-Website
+# Platinum
+Sliently Overpowered
