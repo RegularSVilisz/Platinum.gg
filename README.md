@@ -1,2 +1,2 @@
-# Platinum
+# Platinum 🔒
 Sliently Overpowered
